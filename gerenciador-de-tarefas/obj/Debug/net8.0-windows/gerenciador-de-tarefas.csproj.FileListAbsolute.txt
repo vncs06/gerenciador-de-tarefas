@@ -1,0 +1,15 @@
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\bin\Debug\net8.0-windows\gerenciador-de-tarefas.exe
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\bin\Debug\net8.0-windows\gerenciador-de-tarefas.deps.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\bin\Debug\net8.0-windows\gerenciador-de-tarefas.runtimeconfig.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\bin\Debug\net8.0-windows\gerenciador-de-tarefas.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\bin\Debug\net8.0-windows\gerenciador-de-tarefas.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.AssemblyInfoInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.AssemblyInfo.cs
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.sourcelink.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\refint\gerenciador-de-tarefas.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\gerenciador-de-tarefas.genruntimeconfig.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\gerenciador-de-tarefas\gerenciador-de-tarefas\obj\Debug\net8.0-windows\ref\gerenciador-de-tarefas.dll
